@@ -3,6 +3,9 @@ layout: post
 title: "HeartSync: A Mobile App for Heart Rate Monitoring"
 date: 2025-03-11
 author: "Antonio García Tierno"
+categories: [App, HealthTech, Telemedicine]
+tags: [android, heart rate, HRV, PPG, firebase, telemedicine]
+image: "../images/cover.png"
 ---
 ## Introduction
 This project was developed as my **Final Degree Project (TFG)**, aiming to explore the potential of mobile applications in health monitoring.  
