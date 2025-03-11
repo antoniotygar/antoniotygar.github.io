@@ -37,11 +37,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "antonio.garcia@estudiants.urv.cat"
-  facebook: antoniog
-  github: antoniog
-  twitter: antoniog
-  youtube: "@antoniog"
-  linkedin: antoniog
+#  facebook: antoniog
+  github: antoniotygar
+#  twitter: antoniog
+#   youtube: "@antoniog"
+#  linkedin: antoniog
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
