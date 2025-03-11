@@ -5,7 +5,10 @@ date: 2025-03-11
 author: "Antonio García Tierno"
 ---
 ## Introduction
-Cardiovascular diseases are a leading cause of death worldwide, making heart rate monitoring an essential health metric. In my final degree project, I developed **HeartSync**, an Android application that allows users to measure both **heart rate (HR)** and **heart rate variability (HRV)** using just their smartphone’s camera and LED flash.
+This project was developed as my **Final Degree Project (TFG)**, aiming to explore the potential of mobile applications in health monitoring.  
+Cardiovascular diseases are a leading cause of death worldwide, making heart rate monitoring an essential health metric.  
+
+In this project, I developed **HeartSync**, an Android application that allows users to measure both **heart rate (HR)** and **heart rate variability (HRV)** using just their smartphone’s camera and LED flash.
 
 ## How It Works
 HeartSync utilizes **photoplethysmography (PPG)**, a technique that detects changes in blood volume by analyzing the light absorbed by the skin. The app:
