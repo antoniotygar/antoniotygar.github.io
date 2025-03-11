@@ -22,9 +22,11 @@ Here’s an overview of the different screens in the HeartSync app:
 The app measures heart rate using **photoplethysmography (PPG)**. The user places their fingertip over the smartphone’s camera, which detects variations in light absorption.
 
 ![Measurement Process - Step 1](../images/proceso_medida1.png)
+
 *Place your finger over the rear camera and flash.*
 
 ![Measurement Process - Step 2](../images/proceso_medida2.png)
+
 *Hold your phone still during the measurement process.*
 
 ## Key Features
