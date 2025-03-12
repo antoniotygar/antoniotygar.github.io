@@ -1,6 +1,7 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: "Antonio García"
 description: "Personal Website"
+seo-title: "Antonio García - Personal Website"
 
 ###############################################
 # --- List of links in the navigation bar --- #
