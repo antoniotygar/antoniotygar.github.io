@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: Home
-author: Antonio García
+title: "Antonio García"
+description: "Biomedical Engineer & Health Data Scientist Student"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -9,8 +9,10 @@ author: Antonio García
 # For each link, make sure to create a corresponding markdown file in the root folder (like `aboutme.md`)
 
 navbar-links:
-  About Me: "aboutme"
-  Example Page: "example"
+  About Me: "aboutme.md"
+  Blog: "blog/"
+  Projects: "projects.md"
+  Contact: "contact.md"
 
 ################
 # --- Logo --- #
@@ -109,19 +111,17 @@ navbar-var-length: false
 # --- Colours / background image --- #
 ######################################
 
-# Personalize the colours in your website. Colour values can be any valid CSS colour
-
-page-col: "#F8FAFC"
-text-col: "#374151"
-link-col: "#3B82F6"
-hover-col: "#1E40AF"
-navbar-col: "#1E3A8A"
-navbar-text-col: "#F8FAFC"
-navbar-border-col: "#3B82F6"
-footer-col: "#1E3A8A"
-footer-text-col: "#E5E7EB"
-footer-link-col: "#3B82F6"
-footer-hover-col: "#60A5FA"
+page-col: "#F8F9FA"        # Fondo gris claro, más elegante
+text-col: "#212529"        # Texto gris oscuro para mejor contraste
+link-col: "#007BFF"        # Azul moderno para los enlaces
+hover-col: "#0056B3"       # Azul más oscuro al pasar el ratón
+navbar-col: "#FFFFFF"      # Barra de navegación en blanco
+navbar-text-col: "#212529" # Texto oscuro en la barra
+navbar-border-col: "#DDDDDD"
+footer-col: "#F8F9FA"      # Fondo claro para el footer
+footer-text-col: "#6C757D" # Texto gris en el footer
+footer-link-col: "#007BFF"
+footer-hover-col: "#0056B3"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -130,6 +130,7 @@ footer-hover-col: "#60A5FA"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
+font: "Inter, sans-serif"
 
 ################
 # --- Misc --- #
