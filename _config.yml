@@ -10,7 +10,7 @@ seo-title: "Antonio García - Personal Website"
 # For each link, make sure to create a corresponding markdown file in the root folder (like `aboutme.md`)
 
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: "aboutme"
   Blog: "blog/"
   Projects: "projects.md"
   Contact: "contact.md"
