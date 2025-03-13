@@ -12,8 +12,8 @@ seo-title: "Antonio García - Personal Website"
 navbar-links:
   About Me: "aboutme"
   Blog: "blog/"
-  Projects: "projects.md"
-  Contact: "contact.md"
+  #Projects: "projects.md"
+  #Contact: "contact.md"
 
 ################
 # --- Logo --- #
